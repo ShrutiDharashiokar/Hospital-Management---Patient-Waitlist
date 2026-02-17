@@ -16,3 +16,4 @@ Paginated tooltip for detailed insights
 Healthcare teams needed clearer visibility into patient waitlists to track trends, manage demand, and improve resource planning across inpatient and outpatient services.
 
 # Screenshot
+https://github.com/ShrutiDharashiokar/Hospital-Management---Patient-Waitlist/blob/main/hospital%20management.png
